@@ -47,4 +47,6 @@ To use this project, follow the steps below:
 2. The LCD screen will display the real-time temperature readings from the LM35 sensor.
 3. You can modify the temperature threshold and customize the project according to your requirements by editing the code in the `termometro.ino` file.
 
+## License
 
+This project is licensed under the [MIT License](https://github.com/lupitacode/arduino-temperature-alert/blob/main/LICENSE). Feel free to modify and distribute this project for personal or commercial use.
