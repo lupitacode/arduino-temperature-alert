@@ -1,5 +1,7 @@
 # Digital Thermometer using Arduino and LM35
 
+Languages: [🇲🇽] [Spanish](README-ES.md) - [🇺🇸] [English](README.md) 
+
 This is an Arduino project designed to monitor the ambient temperature using an LM35 sensor, a buzzer, and an Arduino UNO board. 
 The main objective of this project is to detect and alert when the ambient temperature exceeds 30 degrees Celsius by activating 
 the buzzer and illuminating an LED.
